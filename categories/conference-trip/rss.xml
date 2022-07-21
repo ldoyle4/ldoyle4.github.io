@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Lauren Doyle - Conference Trip</title>
+        <link>https://ldoyle4.github.io</link>
+        <description>The website of astronomer Dr Lauren Doyle</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://ldoyle4.github.io/categories/conference-trip/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>National Astronomy Meeting (NAM) 2022</title>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ldoyle4.github.io/posts/nam2022/</link>
+            <guid>https://ldoyle4.github.io/posts/nam2022/</guid>
+            <description>&lt;p&gt;I had a great trip!&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

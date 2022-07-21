@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Lauren Doyle - Conference</title>
+        <link>https://ldoyle4.github.io</link>
+        <description>The website of astronomer Dr Lauren Doyle</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://ldoyle4.github.io/categories/conference/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Cool Stars 21</title>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ldoyle4.github.io/posts/coolstars21/</link>
+            <guid>https://ldoyle4.github.io/posts/coolstars21/</guid>
+            <description>&lt;p&gt;I had a great trip.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
